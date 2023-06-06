@@ -9,4 +9,4 @@ Enjoy!
 
 
 
-Byggd med Vue, TypeScript, Vite och CSS3.
+Byggd med Vue, TypeScript, Vite, CSS3, HTML5.
